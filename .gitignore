@@ -1,0 +1,9 @@
+# Ignore a specific file
+
+
+# Ignore all `.log` files
+*.PNG
+
+# Ignore a folder and everything in it
+backend_files/
+frontend_files/
